@@ -58,6 +58,7 @@ const AlbumDetails = () => {
         </div>
       </div>
 
+
       <Player />
     </>
   );
